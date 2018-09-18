@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1477635432 source:/home/user/Desktop/project_1/main.cpp
+	<iostream>
+	<book_shop.h>
+	<buyer.h>
+
+1477632325 /home/user/Desktop/project_1/include/book_shop.h
+
+1477633195 source:/home/user/Desktop/project_1/src/book_shop.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<string>
+	"book_shop.h"
+
+1477632806 source:/home/user/Desktop/project_1/src/buyer.cpp
+	<iostream>
+	<fstream>
+	"buyer.h"
+
+1477632806 /home/user/Desktop/project_1/include/buyer.h
+
+1477599322 source:/home/user/Desktop/project_1/src/add_book.cpp
+	"add_book.h"
+
+1477599322 /home/user/Desktop/project_1/include/add_book.h
+
